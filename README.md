@@ -38,6 +38,8 @@ python test.py
 mcp dev test.py
 ```
 自动打开 MCP Inspector 网页调试界面。
+<img width="1696" height="849" alt="image" src="https://github.com/user-attachments/assets/5938063f-b3b2-4a4d-9dd9-74b88c38f5ab" />
+<img width="1401" height="598" alt="image" src="https://github.com/user-attachments/assets/ef4ccef8-b466-4e73-9179-0076dede9af4" />
 
 ## 5. MCP Inspector 配置与调用
 网页调试器默认配置修改：
